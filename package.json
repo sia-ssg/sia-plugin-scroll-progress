@@ -1,0 +1,25 @@
+{
+  "name": "@sia-ssg/sia-plugin-scroll-progress",
+  "version": "1.0.0",
+  "description": "Scroll Progress plugin for Sia static site generator",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "sia",
+    "sia-plugin",
+    "static-site-generator",
+    "plugin"
+  ],
+  "author": "Terry Moore II",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "peerDependencies": {
+    "@sia-ssg/sia": ">=3.0.0"
+  }
+}
